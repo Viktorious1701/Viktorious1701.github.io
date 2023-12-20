@@ -1,0 +1,82 @@
+[
+    {
+      "question": "What is the name of the main character in Honkai: Star Rail?",
+      "choice1": "Kiana Kaslana",
+      "choice2": "Adam", 
+      "choice3": "Himeko Murata",
+      "choice4": "Danheng",
+      "answer": 2
+    },
+    {
+      "question": "Which company develops the Honkai series of games including Honkai: Star Rail?",
+      "choice1": "Nintendo",
+      "choice2": "MiHoYo",
+      "choice3": "Rockstar Games",
+      "choice4": "Square Enix",
+      "answer": 2
+    },
+    {
+      "question": "What genre of game is Honkai: Star Rail considered?",
+      "choice1": "First-person shooter",
+      "choice2": "Battle royale",
+      "choice3": "RPG",
+      "choice4": "Action-adventure",
+      "answer": 3
+    },
+    {
+      "question": "On what platforms is Honkai: Star Rail currently available?",
+      "choice1": "PlayStation 4",
+      "choice2": "Nintendo Switch",
+      "choice3": "iOS and Android only",
+      "choice4": "PlayStation 5",
+      "answer": 3
+    },
+    {
+      "question": "What is the name of the spaceship the main character travels on in Honkai: Star Rail?",
+      "choice1": "the Hyperion",
+      "choice2": "the Normandy",
+      "choice3": "the Starchaser",
+      "choice4": "the Avenger",
+      "answer": 1
+    },
+    {
+      "question": "What mechanism allows characters to travel between different worlds in Honkai: Star Rail?",
+      "choice1": "Spatial tears",
+      "choice2": "Wormholes",
+      "choice3": "Phantom rails",
+      "choice4": "Hyperspace gates", 
+      "answer": 3
+    },
+    {
+      "question": "Who is the main antagonist force that opposes the protagonists in Honkai: Star Rail?",
+      "choice1": "Herrscher of the Void",
+      "choice2": "Omniclusters",
+      "choice3": "Abyss Order",
+      "choice4": "Fatui",
+      "answer": 2
+    },
+    {
+      "question": "Which Honkai series game is Honkai: Star Rail a sequel to?",
+      "choice1": "Guns GirlZ",
+      "choice2": "Honkai Impact 3rd",
+      "choice3": "Genshin Impact",
+      "choice4": "Tears of Themis",
+      "answer": 2
+    },
+    {
+      "question": "What is the name of the currency used in Honkai: Star Rail?",
+      "choice1": "Primogems",
+      "choice2": "Mora",
+      "choice3": "Tokens",
+      "choice4": "Credits",
+      "answer": 4
+    },
+    {
+      "question": "What type of combat does Honkai use?",
+      "choice1": "Turn-based", 
+      "choice2": "Tactical grid",
+      "choice3": "Action role-playing",
+      "choice4": "Text-based",
+      "answer": 3 
+    }
+  ]
